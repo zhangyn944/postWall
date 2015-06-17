@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PostWall</string>
+    <string name="title_section1">海报</string>
+    <string name="title_section2">分类</string>
+    <string name="title_section3">发现</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="item1">sport</string>
+    <string name="item2">music</string>
+    <string name="item3">charity</string>
+    <string name="item4">study</string>
+    <string name="name">zhang</string>
+    <string name="title_activity_detail_layout">MainActivity</string>
+    <string name="border_top">Border Top</string>
+    <string name="border_bottom">Border Bottom</string>
+    <string name="image_url">Image Url</string>
+</resources>
