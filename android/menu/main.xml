@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.bzdnmc.postwall_1.MainActivity" >
+
+    <item
+        android:id="@+id/action_example"
+        android:showAsAction="withText|ifRoom" android:visible="true" android:checkable="true" android:title="用户"
+        android:icon="@drawable/avatars8">
+        <menu>
+            <item android:id="@+id/action_bar_item1" android:title="个人信息"/>
+            <item android:id="@+id/action_bar_item2" android:title="注销"/>
+        </menu>
+    </item>
+
+</menu>
